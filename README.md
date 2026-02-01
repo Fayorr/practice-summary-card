@@ -1,4 +1,4 @@
-# Overview //how to run the project
+# Overview How to run the project
 
 ## Install dependencies
 
@@ -7,6 +7,10 @@ npm install
 ## Run the development server
 
 npm run dev
+
+
+
+
 
 ## Dentist Find - Interview Project
 
